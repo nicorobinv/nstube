@@ -114,6 +114,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-coverage[]적용 범위,보상,정화 준비,보도,취재복사
 
+data
 package-lock.json
+uploads
+static
